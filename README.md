@@ -5,8 +5,8 @@
 3) *Deep Learning*  
 4) *Random Python scripting*   
   
-1). [Spectral Clustering][ref]  
-[ref]: http://nbviewer.ipython.org/github/trmanish/MyProjects/blob/master/A2_SpectralClustering.ipynb  
+1). [Spectral Clustering][ref1]  
+[ref1]: http://nbviewer.ipython.org/github/trmanish/MyProjects/blob/master/A2_SpectralClustering.ipynb  
 
 2). [Classification of US Congressional Speech Data][ref]  
 
